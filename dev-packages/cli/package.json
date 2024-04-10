@@ -45,7 +45,7 @@
     "node-fetch": "^2.6.0",
     "puppeteer": "^2.0.0",
     "puppeteer-to-istanbul": "^1.2.2",
-    "tar": "^4.0.0",
+    "tar": "^6.2.1",
     "unzip-stream": "^0.3.0",
     "yargs": "^11.1.0"
   }
