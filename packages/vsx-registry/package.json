@@ -13,8 +13,8 @@
     "p-debounce": "^2.1.0",
     "requestretry": "^3.1.0",
     "sanitize-html": "^1.14.1",
-    "showdown": "^1.9.1",
-    "uuid": "^3.2.1"
+    "showdown": "^2.1.0",
+    "uuid": "^14.0.1"
   },
   "publishConfig": {
     "access": "public"
