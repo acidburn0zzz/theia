@@ -7,7 +7,7 @@
     "@theia/editor": "^1.1.0",
     "@theia/languages": "^1.1.0",
     "@types/uuid": "^3.4.3",
-    "uuid": "^3.2.1"
+    "uuid": "^14.0.0"
   },
   "publishConfig": {
     "access": "public"

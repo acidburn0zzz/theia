@@ -7,14 +7,14 @@
     "@theia/plugin-ext-vscode": "^1.1.0",
     "@types/bent": "^7.0.1",
     "@types/sanitize-html": "^1.13.31",
-    "@types/showdown": "^1.7.1",
+    "@types/showdown": "^2.0.6",
     "bent": "^7.1.0",
     "fs-extra": "^4.0.2",
     "p-debounce": "^2.1.0",
     "requestretry": "^3.1.0",
-    "sanitize-html": "^1.14.1",
-    "showdown": "^1.9.1",
-    "uuid": "^3.2.1"
+    "sanitize-html": "^2.17.7",
+    "showdown": "^2.1.0",
+    "uuid": "^14.0.0"
   },
   "publishConfig": {
     "access": "public"
